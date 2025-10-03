@@ -7,3 +7,5 @@ This project selects this topic and dataset for the purpose of :
 
 Discover the factors that affect employee attrition and then take measures to reduce this rate.
 Build a machine learning model based on employee factors to predict whether that employee is likely to attrition or not?
+
+path of data set=/kaggle/input/ibm-hr-analytics-attrition-dataset/WA_Fn-UseC_-HR-Employee-Attrition.csv
